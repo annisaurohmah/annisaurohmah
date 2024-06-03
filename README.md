@@ -16,9 +16,9 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
-- 🔭 I’m a software engineering student :grin:
-- 🌱 I’m currently learning MERN Stack Development.
+### I am a Software Engineer Student at Gadjah Mada University
+- 🔭 I'm currently exploring to find my specific role :grin:
+- 🌱 I’m currently in [PINKAN] project development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2024 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -79,5 +79,4 @@
 <!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141
+[PINKAN]: https://instagram.com/pkmkcugm_pinkan
